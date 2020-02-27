@@ -1,10 +1,10 @@
 # Crypto
 
-#### Vigenetale
+## Vigenetale
 
 就只是 [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) 上網找工具解就好
 
-#### Ez RSA
+### Ez RSA
 
 給 `c`, `n`, `e` 
 
