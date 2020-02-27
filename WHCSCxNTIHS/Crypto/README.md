@@ -1,10 +1,10 @@
 # Crypto
 
-##### Vigenetale
+#### Vigenetale
 
 就只是 [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) 上網找工具解就好
 
-##### Ez RSA
+#### Ez RSA
 
 給 `c`, `n`, `e` 
 
@@ -13,16 +13,16 @@
 
 `python3 ez_rsa.py.py`
 
-##### Rareac
+#### Rareac
 
 明顯是 [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 
 `python3 ez_rsa.py.py`
 
-##### Root(Square(P))
+#### Root(Square(P))
 
 > 未能解出
 
-##### 3 Carry System
+#### 3 Carry System
 
 > 未能解出
