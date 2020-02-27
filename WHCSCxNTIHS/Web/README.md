@@ -1,6 +1,6 @@
 # Web
 
-##### Type Juggling
+### Type Juggling
 
 要求用 `GET` 方法傳送 `secret` 要求如下
 `$secret != '240610708' && md5($secret) == md5('240610708')`
@@ -8,15 +8,15 @@
 因為 `md5('240610708') = 0e462097431906509019562988736854`
 在 `php` 代表 `0` ，雙等於又不比較型態，所以只要讓 `md5($secret)` 是 `0e` 開頭的就可以了
 
-##### Depreciated Page
+### Depreciated Page
 
 > 未能解出
 
-##### Ok, Google
+### Ok, Google
 
 > 未能解出
 
-##### Dictionary
+### Dictionary
 
 要求要 `admin` 登入後點擊 `Show flag` 才會顯示 `flag` ，並給了一組 `test` 帳號
 

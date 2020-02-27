@@ -1,10 +1,10 @@
 # Misc
 
-##### Minecraft Symbol
+### Minecraft Symbol
 
 > 未能解出
 
-##### One Line Python
+### One Line Python
 
 給定一行 `python code`
 
@@ -12,7 +12,7 @@
 
 `python3 one_line_python.py`
 
-##### JSFuck
+### JSFuck
 
 給一個 `html` 檔案，打開發現內容是執行一段 `javascript，發現執行不了，要你把符號替換成正確的才能執行成功`
 
@@ -21,10 +21,10 @@
 [JSFuck-wiki](https://en.wikipedia.org/wiki/JSFuck)
 [JSFuck](http://www.jsfuck.com/)
 
-##### Fortune
+### Fortune
 
 > 未能解出
 
-##### Psychic Py
+### Psychic Py
 
 > 未能解出

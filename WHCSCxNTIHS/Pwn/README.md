@@ -1,6 +1,6 @@
 # Pwn
 
-##### Baby_bof
+### Baby_bof
 
 給了 `c code` 和 `elf` 檔
 
