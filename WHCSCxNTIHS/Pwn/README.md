@@ -6,4 +6,4 @@
 
 簡單看了一下發現有 `stack buffer overflow` `也給了一個function` 可以拿到 `shell`
 
-`python Baby_bof.py`
+`python Baby_bof.py` 

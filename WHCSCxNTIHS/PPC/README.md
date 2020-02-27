@@ -20,4 +20,4 @@
 
 更大的 `nonogram` ， `tool` 可能解不開或解很久
 
-<sup><sub>Author: CSY54</sub></sup>
+<sup><sub>Author: CSY54</sub></sup> 
