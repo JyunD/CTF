@@ -12,6 +12,8 @@
 
 `python3 one_line_python.py`
 
+<sup><sub>Author: CSY54</sub></sup>
+
 ### JSFuck
 
 給一個 `html` 檔案，打開發現內容是執行一段 `javascript，發現執行不了，要你把符號替換成正確的才能執行成功`
@@ -21,9 +23,13 @@
 [JSFuck-wiki](https://en.wikipedia.org/wiki/JSFuck)
 [JSFuck](http://www.jsfuck.com/)
 
+<sup><sub>Author: CSY54</sub></sup>
+
 ### Fortune
 
 > 未能解出
+
+<sup><sub>Author: CSY54</sub></sup>
 
 ### Psychic Py
 
