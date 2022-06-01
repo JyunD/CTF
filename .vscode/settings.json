@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": false,
+    "terminal.integrated.fontFamily": "MesloLGS NF, Source Code Pro for Powerline",
+    "python.pythonPath": "/usr/bin/python3"
+}
