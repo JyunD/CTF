@@ -14,5 +14,9 @@ Messy printer
 
 crypto + pwn ?
 
-有點忘了怎麼解的了...
+題目會將你的 `title` 變成 `(N - title)` 然後做 RSA 加密，但 e 是 3，因此我們輸入 1 可以推算出 N
+
+$(N-1)^3\space mod\space N = N^3 + 3N^2 - 3N - 1\space mod\space N = -1 mod\space N = N-1$
+
+那麼我們就可以 leak 出 libc address
 
