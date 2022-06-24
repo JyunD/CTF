@@ -29,6 +29,4 @@ e= 10011
 Reference
 ---
 
-[McEliece公鑰密碼體制](https://blog.csdn.net/u010536377/article/details/41924803)
-
 [hackmd](https://hackmd.io/ZRlWS44VSNerBWF9pbmuig)
